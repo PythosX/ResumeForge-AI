@@ -86,22 +86,28 @@ Contact Information Check
 
 
 Upload Resume
+
       │
       ▼
 Extract Text
+
       │
       ▼
 AI Analysis
+
       │
  ┌────┼────┐
  ▼    ▼    ▼
 ATS  Keywords  Suggestions
+
       │
       ▼
 Resume Rebuilder
+
       │
       ▼
 Download PDF
+
 
 
 ## ⭐ Support

@@ -97,7 +97,6 @@ AI Analysis
 
       │
  ┌────┼────┐
- ▼    ▼    ▼
  
 ATS  Keywords  Suggestions
 

@@ -1,5 +1,4 @@
 # ResumeForge AI 🚀
----
 # https://resumeforge-ai-sdir.onrender.com
 
 > **AI-Powered Resume Analyzer & Rebuilder**

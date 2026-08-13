@@ -30,16 +30,6 @@ ResumeForge AI is a modern SaaS-style web application that analyzes resumes, pro
 
 ---
 
-## 📸 Preview
-
-| Home | Analysis Dashboard |
-|------|--------------------|
-| Dark Gradient Hero | Circular ATS Score |
-
-> Add screenshots inside `/docs/screenshots`.
-
----
-
 ## 🖥️ Tech Stack
 
 ### Frontend
@@ -71,4 +61,53 @@ ResumeForge AI is a modern SaaS-style web application that analyzes resumes, pro
 
 ---
 
-## 📂 Project Structure
+## 📊 Analysis Includes
+
+ATS Score
+
+Job Match Score
+
+Resume Structure
+
+Keyword Matching
+
+Missing Skills
+
+Bullet Quality
+
+Impact Analysis
+
+Action Verb Detection
+
+Contact Information Check
+
+
+## 🔄 Workflow
+
+
+Upload Resume
+      │
+      ▼
+Extract Text
+      │
+      ▼
+AI Analysis
+      │
+ ┌────┼────┐
+ ▼    ▼    ▼
+ATS  Keywords  Suggestions
+      │
+      ▼
+Resume Rebuilder
+      │
+      ▼
+Download PDF
+
+
+## ⭐ Support
+
+If you like this project,
+
+⭐ Star the repository
+
+and share it with others.
